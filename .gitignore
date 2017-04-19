@@ -1,1 +1,2 @@
-./KitMaker/bin
+./KitMaker/bin/*
+./KitMaker/obj/*
